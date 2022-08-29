@@ -1,0 +1,15 @@
+C:\VS STUDIO\Musica\bin\Debug\net6.0\Musica.exe
+C:\VS STUDIO\Musica\bin\Debug\net6.0\Musica.deps.json
+C:\VS STUDIO\Musica\bin\Debug\net6.0\Musica.runtimeconfig.json
+C:\VS STUDIO\Musica\bin\Debug\net6.0\Musica.dll
+C:\VS STUDIO\Musica\bin\Debug\net6.0\Musica.pdb
+C:\VS STUDIO\Musica\obj\Debug\net6.0\Musica.csproj.AssemblyReference.cache
+C:\VS STUDIO\Musica\obj\Debug\net6.0\Musica.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS STUDIO\Musica\obj\Debug\net6.0\Musica.AssemblyInfoInputs.cache
+C:\VS STUDIO\Musica\obj\Debug\net6.0\Musica.AssemblyInfo.cs
+C:\VS STUDIO\Musica\obj\Debug\net6.0\Musica.csproj.CoreCompileInputs.cache
+C:\VS STUDIO\Musica\obj\Debug\net6.0\Musica.dll
+C:\VS STUDIO\Musica\obj\Debug\net6.0\refint\Musica.dll
+C:\VS STUDIO\Musica\obj\Debug\net6.0\Musica.pdb
+C:\VS STUDIO\Musica\obj\Debug\net6.0\Musica.genruntimeconfig.cache
+C:\VS STUDIO\Musica\obj\Debug\net6.0\ref\Musica.dll
